@@ -1,22 +1,5 @@
 ### Hi! ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif)Welcome to my profile!
 
-<!--
-**MirkokriM/mirkokrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
-
 ## User Learn Badge
 <table><tr><td valign="top" width="33%">
 
@@ -31,7 +14,7 @@ Here are some ideas to get you started:
 </td></tr></table>
 
 ## Skill Badge
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" align="center" width="20%">
 
 
 ### Languages
@@ -47,7 +30,7 @@ Here are some ideas to get you started:
 	
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" align="center" width="35%">
 
 ### Editing
 <div align="center">
@@ -68,7 +51,7 @@ Here are some ideas to get you started:
 	
 </div>
 	
-</td><td valign="top" width="33%">
+</td><td valign="top" align="center" width="30%">
 
 ### Software & Technologies
 <div align="center">
