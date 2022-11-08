@@ -1,4 +1,4 @@
-### Hi! ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif)Welcome to my profile!
+### Welcome to my GitHub Page! ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif)
 
 ## User Learn Badge
 <table><tr><td valign="top" width="33%">
