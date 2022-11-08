@@ -1,4 +1,4 @@
-### Hi! ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif)Welcome to my profile!
+### Hi! ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif = 250x250)Welcome to my profile!
 
 <!--
 **MirkokriM/mirkokrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
