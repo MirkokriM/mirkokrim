@@ -1,4 +1,4 @@
-### Hi! ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif = 250x250)Welcome to my profile!
+### Hi! ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif)Welcome to my profile!
 
 <!--
 **MirkokriM/mirkokrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +25,14 @@ Here are some ideas to get you started:
 	<img src="badges/_userlearning/Solo_Learn.svg"/>
 	<img src="badges/_userlearning/Cisco.svg"/>
 	<img src="badges/_userlearning/Udacity.svg"/>
+	
 </div>
+
+</td></tr></table>
 
 ## Skill Badge
 <table><tr><td valign="top" width="33%">
+
 
 ### Languages
 <div align="center">
@@ -40,6 +44,7 @@ Here are some ideas to get you started:
 	<img src="badges/Languages/Ruby.svg"/>
 	<img src="badges/Languages/JavaScript.svg"/>
 	<img src="badges/Languages/HTML5.svg"/>
+	
 </div>
 
 </td><td valign="top" width="33%">
@@ -60,6 +65,7 @@ Here are some ideas to get you started:
 	<img src="badges/Editing/Krita.svg"/>
 	<img src="badges/Editing/Shotcut.svg"/>
 	<img src="badges/Editing/Vocaloid.svg"/>
+	
 </div>
 	
 </td><td valign="top" width="33%">
