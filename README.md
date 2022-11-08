@@ -1,6 +1,9 @@
-# Welcome to my GitHub Page! ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif)
+# Welcome to my GitHub Page! 
+<div valign="center">
+	My name is Mirko 🙃
+</div>
 
-## User Learn Badge
+## User Learn Badge                                      ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif)
 <table><tr><td valign="top" width="33%">
 
 <div align="left">
