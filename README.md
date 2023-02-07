@@ -92,3 +92,10 @@
 <a href="https://github.com/MirkokriM?tab=repositories">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MirkokriM&theme=gruvbox&hide_border=true">
 </a>
+
+## Rome 42 Stats
+
+<table><tr>
+	<img src="https://badge42.vercel.app/api/v2/cldu2s4nx00440gl8a0gi877d/stats?cursusId=21&coalitionId=124" />
+</tr></table>
+</div>
