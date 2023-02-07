@@ -71,7 +71,9 @@
 	<img src="badges/Software _&_technologies/Ubuntu.svg"/>
 	<img src="badges/Software _&_technologies/Visual_Studio_Code.svg"/>
 </div>
-	
+
+</td></tr></table>
+
 ## Github Stats
 
 <tr>
@@ -90,6 +92,3 @@
 <a href="https://github.com/MirkokriM?tab=repositories">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MirkokriM&theme=nightowl&hide_border=true">
 </a>
-
-
-</td></tr></table>
