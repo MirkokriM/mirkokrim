@@ -78,19 +78,15 @@
 <tr>
 <td>
 	<a href="https://github.com/MirkokriM">
-		<img src="https://github-readme-stats.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,0cbadf,b650bf&title_color=ffffff&text_color=ffffff" style="width: 50%">
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,0cbadf,b650bf&title_color=ffffff&text_color=ffffff" style="width: 50%">
 	</a> 
 </td>
 <td>
 	<a href="https://github.com/MirkokriM?tab=repositories">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirkokriM&hide_border=true&layout=compact&theme=gruvbox&langs_count=10" style="width: 42%">
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MirkokriM&hide_border=true&layout=compact&theme=gruvbox&langs_count=10&bg_color=30,0cbadf,b650bf&title_color=ffffff&text_color=ffffff" style="width: 42%">
 	</a>
 </td>
 </tr>
-
-<a href="https://github.com/MirkokriM?tab=repositories">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MirkokriM&theme=gruvbox&hide_border=true">
-</a>
 
 ## Rome 42 Stats
 
