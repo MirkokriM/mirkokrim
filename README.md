@@ -71,5 +71,25 @@
 	<img src="badges/Software _&_technologies/Ubuntu.svg"/>
 	<img src="badges/Software _&_technologies/Visual_Studio_Code.svg"/>
 </div>
+	
+## Github Stats
+
+<tr>
+<td>
+	<a href="https://github.com/MirkokriM">
+		<img src="https://github-readme-stats.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&theme=nightowl" style="width: 50%">
+	</a> 
+</td>
+<td>
+	<a href="https://github.com/MirkokriM?tab=repositories">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirkokriM&hide_border=true&layout=compact&theme=nightowl&langs_count=10" style="width: 42%">
+	</a>
+</td>
+</tr>
+
+<a href="https://github.com/MirkokriM?tab=repositories">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MirkokriM&theme=nightowl&hide_border=true">
+</a>
+
 
 </td></tr></table>
