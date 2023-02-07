@@ -4,20 +4,20 @@
 </div>
 
 ## User Learn Badge                                      ![](https://github.com/MirkokriM/giffs/blob/main/giffes/giphy.gif)
-<table><tr><td valign="top" width="33%">
+<table border = 3 <table><tr><td valign="top" width="33%">
 
-<div align="left">
+<div align="left"> 
+	<img src="badges/_userlearning/42_Luiss.svg"/>
 	<img src="badges/_userlearning/Udemy.svg"/>
 	<img src="badges/_userlearning/Solo_Learn.svg"/>
 	<img src="badges/_userlearning/Cisco.svg"/>
 	<img src="badges/_userlearning/Udacity.svg"/>
-	
 </div>
 
 </td></tr></table>
 
 ## Skill Badge
-<table><tr><td valign="top" align="center" width="20%">
+<table border = 3 <table><tr><td valign="top" align="center" width="20%">
 
 
 ### Languages
@@ -75,7 +75,6 @@
 </td></tr></table>
 
 ## Github Stats
-
 <tr>
 <td>
 	<a href="https://github.com/MirkokriM">
