@@ -94,6 +94,6 @@
 ## Rome 42 Stats
 
 <table><tr>
-	
+	<img src= "https://badge42.vercel.app/api/v2/cldu2s4nx00440gl8a0gi877d/stats?cursusId=21&coalitionId=124">
 </tr></table>
 </div>
