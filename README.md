@@ -83,7 +83,7 @@
 </td>
 <td>
 	<a href="https://github.com/MirkokriM?tab=repositories">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MirkokriM&hide_border=true&theme=gruvbox&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff" width="35%" >
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MirkokriM&hide_border=true&theme=gruvbox&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff" width="28%" >
 	</a>
 	<a href="https://github.com/MirkokriM/42_Common_Core">
                 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" />
