@@ -78,19 +78,22 @@
 <tr>
 <td>
 	<a href="https://github.com/MirkokriM">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,0cbadf,b650bf&title_color=ffffff&text_color=ffffff" style="width: 50%">
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,0cbadf,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="50%" >
 	</a> 
 </td>
 <td>
 	<a href="https://github.com/MirkokriM?tab=repositories">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MirkokriM&hide_border=true&layout=compact&theme=gruvbox&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff" style="width: 42%">
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MirkokriM&hide_border=true&theme=gruvbox&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff" width="35%" >
 	</a>
+	<a href="https://github.com/MirkokriM/42_Common_Core">
+                <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" />
+	</a>    
 </td>
 </tr>
 
 ## Rome 42 Stats
 
 <table><tr>
-	<img src="https://badge42.vercel.app/api/v2/cldu2s4nx00440gl8a0gi877d/stats?cursusId=21&coalitionId=124" />
+	
 </tr></table>
 </div>
