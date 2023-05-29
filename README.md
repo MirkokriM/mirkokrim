@@ -87,12 +87,19 @@
 	</a>
 	<a href="https://github.com/MirkokriM/42_Common_Core">
                 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="49%" />
-	</a>
-	<a href="https://github.com/MirkokriM/My_Piscine">
-                <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=My_Piscine&hide_border=TRUE&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400" width="49%" />
-	</a>
+	
 </td>
 </tr>
+
+<a href="https://github.com/MirkokriM/My_Piscine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirkokriM&repo=My_Piscine&hide_border=TRUE&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400" width="49%"/>
+</a>
+
+<!---
+<a href="https://github.com/MirkokriM/42_Common_Core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core" />
+</a>
+--->
 
 ## Rome 42 Stats
 
