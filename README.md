@@ -99,6 +99,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core" />
 </a>
 --->
+## Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=MirkokriM&no-frame=true&column=7&no-bg=true&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ## Rome 42 Stats
 
