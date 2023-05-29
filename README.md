@@ -10,6 +10,7 @@
 	<img src="badges/_userlearning/Solo_Learn.svg"/>
 	<img src="badges/_userlearning/Cisco.svg"/>
 	<img src="badges/_userlearning/Udacity.svg"/>
+	<img src="badges/_userlearning/Eduonix.svg"/>
 </div>
 
 </td></tr></table>
