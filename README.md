@@ -76,7 +76,7 @@
 
 ## Github Stats
 <tr>
-<td>
+<td> <!-- https://streak-stats.demolab.com/demo/ -->
 	<a href="https://github.com/MirkokriM">
 		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,E50E4F,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="50%" >
 	</a> 
