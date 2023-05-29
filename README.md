@@ -78,21 +78,21 @@
 <tr>
 <td>
 	<a href="https://github.com/MirkokriM">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,0cbadf,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="50%" >
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,E50E4F,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="50%" >
 	</a> 
 </td>
 <td>
 	<a href="https://github.com/MirkokriM?tab=repositories">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MirkokriM&theme=gruvbox&langs_count=5&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="23.5%" >
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MirkokriM&theme=gruvbox&langs_count=5&bg_color=10,b650bf,CC6483&title_color=ffffff&text_color=ffffff&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="23.5%" >
 	</a>
 	<a href="https://github.com/MirkokriM/42_Common_Core">
-                <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core&langs_count=10&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="49%" />
+                <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core&langs_count=10&bg_color=10,CC6483,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="49%" />
 	
 </td>
 </tr>
 
 <a href="https://github.com/MirkokriM/My_Piscine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirkokriM&repo=My_Piscine&hide_border=TRUE&bg_color=10,b650bf,0cbadf&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=My_Piscine&hide_border=TRUE&bg_color=10,b650bf,E50E4F&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400" width="49%"/>
 </a>
 
 <!---
