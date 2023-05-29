@@ -77,12 +77,12 @@
 <tr>
 <td> <!-- https://streak-stats.demolab.com/demo/ -->
 	<a href="https://github.com/MirkokriM">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,E50E4F,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="50%" >
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,E50E4F,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" >
 	</a> 
 </td>
 <td>
 	<a href="https://github.com/MirkokriM?tab=repositories">
-		<img src="https://streak-stats.demolab.com?user=MirkokriM&theme=gruvbox-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=40%2CB650BF%2CE50E4F&fire=FFFFFF&currStreakLabel=FFFFFF&ring=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF" >
+		<img src="https://streak-stats.demolab.com?user=MirkokriM&theme=gruvbox-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=40%2CB650BF%2CE50E4F&fire=FFFFFF&currStreakLabel=FFFFFF&ring=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF" width="49%" >
 	</a>
 	<a href="https://github.com/MirkokriM/42_Common_Core">
                 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core&bg_color=10,CC6483,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="49%" />
