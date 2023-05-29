@@ -3,7 +3,7 @@
 	<img width="20%" align="right" src="https://github.com/MirkokriM/giffs/blob/main/giffes/Pochita%20best%20dogt.gif">
 </div>
 
-## User Learn Badge
+## User Learn Badge <img src="https://gpvc.arturio.dev/MirkokriM">
 <table border = 3 <table><tr><td valign="top" width="33%">
 <div align="left"> 
 	<img src="badges/_userlearning/42_Luiss.svg"/>
