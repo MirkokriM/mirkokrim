@@ -1,5 +1,4 @@
 <div valign="left">
-	My name is Mirko 🙃
 	<img width="20%" align="right" src="https://github.com/MirkokriM/giffs/blob/main/giffes/Pochita%20best%20dogt.gif">
 </div>
 
