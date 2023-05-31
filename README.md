@@ -1,5 +1,5 @@
 <div valign="left">
-	<img width="20%" align="right" src="https://github.com/MirkokriM/giffs/blob/main/giffes/Pochita%20best%20dogt.gif">
+	<img width="20%" align="right" src="https://github.com/MirkokriM/gifs/blob/main/giffes/Pochita%20best%20dogt.gif">
 </div>
 
 ## User Learn Badge <img src="https://gpvc.arturio.dev/MirkokriM">
