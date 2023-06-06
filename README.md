@@ -2,7 +2,7 @@
 	<img width="20%" align="right" src="https://github.com/MirkokriM/gifs/blob/main/giffes/Pochita%20best%20dogt.gif">
 </div>
 
-## User Learn Badge <img src="https://gpvc.arturio.dev/MirkokriM">
+## User Learn Badge 
 <table border = 3 <table><tr><td valign="top" width="33%">
 <div align="left"> 
 	<img src="badges/_userlearning/42_Luiss.svg"/>
@@ -13,7 +13,7 @@
 	<img src="badges/_userlearning/Eduonix.svg"/>
 </div>
 
-</td></tr></table>
+</td></tr></table> <img src="https://komarev.com/ghpvc/?username=MirkokriM&&style=for-the-badge&&color=902ade&&label=views"/>
 
 ## Skill Badge
 <table border = 3 <table><tr><td valign="top" align="center" width="20%">
@@ -77,12 +77,12 @@
 <tr>
 <td> <!-- https://streak-stats.demolab.com/demo/ -->
 	<a href="https://github.com/MirkokriM">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&hide_border=true&bg_color=30,E50E4F,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" >
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&bg_color=30,E50E4F,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" >
 	</a> 
 </td>
 <td>
 	<a href="https://github.com/MirkokriM?tab=repositories">
-		<img src="https://streak-stats.demolab.com?user=MirkokriM&theme=gruvbox-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=40%2CB650BF%2CE50E4F&fire=FFFFFF&currStreakLabel=FFFFFF&ring=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF" width="49%" >
+		<img src="https://streak-stats.demolab.com?user=MirkokriM&theme=gruvbox-duo&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=40%2CB650BF%2CE50E4F&fire=FFFFFF&currStreakLabel=FFFFFF&ring=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=ffffff" width="49%" >
 	</a>
 	<a href="https://github.com/MirkokriM/42_Common_Core">
                 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core&bg_color=10,CC6483,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400&hide_border=TRUE" width="49%" />
@@ -110,4 +110,9 @@
  
 <!--
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=84qxqysyfoxek4dxt23i9fepf)
+-->
+
+<!--
+![Profile views counter](https://komarev.com/ghpvc/?username=MirkokriM&&style=for-the-badge&&color=902ade&&label=views)
+Visit the github of this guy!
 -->
