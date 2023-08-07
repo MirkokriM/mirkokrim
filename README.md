@@ -1,3 +1,5 @@
+![Start Card Mirko Venditti](https://github.com/MirkokriM/mirkokrim/blob/main/start_card/dark.png)
+
 <div valign="left">
 	<img width="20%" align="right" src="https://github.com/MirkokriM/gifs/blob/main/giffes/Pochita%20best%20dogt.gif">
 </div>
