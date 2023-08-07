@@ -5,7 +5,6 @@
 </div>
 
 ## User Learn Badge 
-<table border = 3 <table><tr><td valign="top" width="33%">
 <div align="left"> 
 	<img src="badges/_userlearning/42_Luiss.svg"/>
 	<img src="badges/_userlearning/Udemy.svg"/>
@@ -13,9 +12,10 @@
 	<img src="badges/_userlearning/Cisco.svg"/>
 	<img src="badges/_userlearning/Udacity.svg"/>
 	<img src="badges/_userlearning/Eduonix.svg"/>
+	<!---
+	</td></tr></table> <img src="https://komarev.com/ghpvc/?username=MirkokriM&&style=for-the-badge&&color=902ade&&label=views"/>
+	--->
 </div>
-
-</td></tr></table> <img src="https://komarev.com/ghpvc/?username=MirkokriM&&style=for-the-badge&&color=902ade&&label=views"/>
 
 ## Skill Badge
 <table border = 3 <table><tr><td valign="top" align="center" width="20%">
