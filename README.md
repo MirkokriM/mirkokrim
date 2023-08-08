@@ -86,6 +86,8 @@
 --->
 
 ## Github Stats
+<details>
+<summary> Open GitHub Stats</summary>
 <tr>
 <td> <!-- https://streak-stats.demolab.com/demo/ -->
 	<a href="https://github.com/MirkokriM">
@@ -105,17 +107,19 @@
 <a href="https://github.com/MirkokriM/My_Piscine">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MirkokriM&repo=My_Piscine&hide_border=TRUE&bg_color=10,b650bf,E50E4F&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=contribs,prs&cache_seconds=86400" width="49%"/>
 </a>
-
 <!---
 <a href="https://github.com/MirkokriM/42_Common_Core">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core" />
 </a>
 --->
+</details>
+
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=MirkokriM&no-frame=true&column=7&theme=discord)](https://github.com/ryo-ma/github-profile-trophy) 
 
-## Rome 42 Stats
-
+## 42 Stats
+<details>
+<summary> Open 42 Stats</summary>
 <img align=left src= "https://badge42.vercel.app/api/v2/cldu2s4nx00440gl8a0gi877d/stats?cursusId=21&coalitionId=124" >
 <img align=left src= "https://badge42.vercel.app/api/v2/cldu2s4nx00440gl8a0gi877d/stats?cursusId=9&coalitionId=170" > 
 <img src="https://metrics.lecoq.io/MirkokriM?template=terminal&base.repositories=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FRome&config.display=regular" width="38%">
@@ -128,3 +132,4 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=MirkokriM&&style=for-the-badge&&color=902ade&&label=views)
 Visit the github of this guy!
 -->
+</details>
