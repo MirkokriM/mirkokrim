@@ -4,7 +4,7 @@
 	<img width="20%" align="right" src="https://github.com/MirkokriM/gifs/blob/main/giffes/Pochita%20best%20dogt.gif">
 </div>
 
-## User Learn Badge 
+# User Learn Badge 
 <div align="left"> 
 	<img src="badges/_userlearning/42_Luiss.svg"/>
 	<img src="badges/_userlearning/Udemy.svg"/>
@@ -21,8 +21,9 @@
 
 | Languages | Editing | Software & Technologies |
 |-----------|---------|------------------------|
-| ![Python](badges/Languages/Python.svg) ![Bash](badges/Languages/Bash.svg) ![C++](badges/Languages/C++.svg) ![C](badges/Languages/C.svg) ![Java](badges/Languages/Java.svg) ![Ruby](badges/Languages/Ruby.svg) ![JavaScript](badges/Languages/JavaScript.svg) ![HTML5](badges/Languages/HTML5.svg) | ![Adobe After Effects](badges/Editing/Adobe_After_Effects.svg) ![Adobe Illustrator](badges/Editing/Adobe_Illustrator.svg) ![Adobe Lightroom](badges/Editing/Adobe_Lightroom.svg) ![Adobe Photoshop](badges/Editing/Adobe_Photoshop.svg) ![Adobe Premiere Pro](badges/Editing/Adobe_Premiere_Pro.svg) ![Aseprite](badges/Editing/Aseprite.svg) ![Audacity](badges/Editing/Audacity.svg) ![Blender](badges/Editing/Blender.svg) ![Canva](badges/Editing/Canva.svg) ![CapCut](badges/Editing/CapCut.svg) ![FL Studio](badges/Editing/FL_Studio.svg) ![Krita](badges/Editing/Krita.svg) ![Shotcut](badges/Editing/Shotcut.svg) ![Vocaloid](badges/Editing/Vocaloid.svg) | ![Arduino](badges/Software_&_technologies/Arduino.svg) ![Git](badges/Software_&_technologies/Git.svg) ![Linux](badges/Software_&_technologies/Linux.svg) ![Vim](badges/Software_&_technologies/Vim.svg) ![Autodesk](badges/Software_&_technologies/Autodesk.svg) ![Godot Engine](badges/Software_&_technologies/Godot_Engine.svg) ![Google Drive](badges/Software_&_technologies/Google_Drive.svg) ![LabVIEW](badges/Software_&_technologies/LabVIEW.svg) ![Multisim](badges/Software_&_technologies/Multisim.svg) ![OBS Studio](badges/Software_&_technologies/OBS_Studio.svg) ![Ubuntu](badges/Software_&_technologies/Ubuntu.svg) ![Visual Studio Code](badges/Software_&_technologies/Visual_Studio_Code.svg) |
+| <div align="center"> ![Python](badges/Languages/Python.svg) ![Bash](badges/Languages/Bash.svg) ![C++](badges/Languages/C++.svg) ![C](badges/Languages/C.svg) ![Java](badges/Languages/Java.svg) ![Ruby](badges/Languages/Ruby.svg) ![JavaScript](badges/Languages/JavaScript.svg) ![HTML5](badges/Languages/HTML5.svg) | <div align="center"> ![Adobe After Effects](badges/Editing/Adobe_After_Effects.svg) ![Adobe Illustrator](badges/Editing/Adobe_Illustrator.svg) ![Adobe Lightroom](badges/Editing/Adobe_Lightroom.svg) ![Adobe Photoshop](badges/Editing/Adobe_Photoshop.svg) ![Adobe Premiere Pro](badges/Editing/Adobe_Premiere_Pro.svg) ![Aseprite](badges/Editing/Aseprite.svg) ![Audacity](badges/Editing/Audacity.svg) ![Blender](badges/Editing/Blender.svg) ![Canva](badges/Editing/Canva.svg) ![CapCut](badges/Editing/CapCut.svg) ![FL Studio](badges/Editing/FL_Studio.svg) ![Krita](badges/Editing/Krita.svg) ![Shotcut](badges/Editing/Shotcut.svg) ![Vocaloid](badges/Editing/Vocaloid.svg) | <div align="center"> ![Arduino](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Arduino.svg) ![Git](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Git.svg) ![Linux](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Linux.svg) ![Vim](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Vim.svg) ![Autodesk](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Autodesk.svg) ![Godot Engine](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Godot_Engine.svg) ![Google Drive](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Google_Drive.svg) ![LabVIEW](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/LabVIEW.svg) ![Multisim](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Multisim.svg) ![OBS Studio](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/OBS_Studio.svg) ![Ubuntu](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Ubuntu.svg) ![Visual Studio Code](https://github.com/MirkokriM/mirkokrim/blob/main/badges/Software%20_%26_technologies/Visual_Studio_Code.svg) |
 
+<!---
 ## Skill Badge
 
 <table border = 3 <table><tr><td valign="top" align="center" width="20%">
@@ -81,6 +82,7 @@
 </div>
 
 </td></tr></table>
+--->
 
 ## Github Stats
 <tr>
