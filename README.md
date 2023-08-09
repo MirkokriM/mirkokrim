@@ -91,7 +91,7 @@
 <tr>
 <td> <!-- https://streak-stats.demolab.com/demo/ -->
 	<a href="https://github.com/MirkokriM">
-		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&bg_color=30,E50E4F,b650bf&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" >
+		<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MirkokriM&show_icons=true&count_private=true&bg_color=30,4A148C,9C27B0&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" >
 	</a> 
 </td>
 <td>
