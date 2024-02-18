@@ -111,6 +111,7 @@
 <a href="https://github.com/MirkokriM/42_Common_Core">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MirkokriM&repo=42_Common_Core" />
 </a>
+GUD LUDAA COLOR: ff7788, 50d4c3
 --->
 </details>
 
