@@ -1,12 +1,11 @@
 ![Start Card Mirko Venditti](https://github.com/MirkokriM/mirkokrim/blob/main/start_card/dark.png)
 
 <div valign="left">
-	<img width="20%" align="right" src="https://github.com/MirkokriM/gifs/blob/main/giffes/Pochita%20best%20dogt.gif">
+	<img width="20%" src="https://github.com/MirkokriM/gifs/blob/main/giffes/Pochita%20best%20dogt.gif">
 </div>
-<div style="clear: both;"></div>
 
 # User Learn Badge 
-<div align="left"> 
+<div valign="left">
 	<img src="badges/_userlearning/42_Luiss.svg"/>
 	<img src="badges/_userlearning/Udemy.svg"/>
 	<img src="badges/_userlearning/Solo_Learn.svg"/>
