@@ -3,6 +3,7 @@
 <div valign="left">
 	<img width="20%" align="right" src="https://github.com/MirkokriM/gifs/blob/main/giffes/Pochita%20best%20dogt.gif">
 </div>
+<div style="clear: both;"></div>
 
 # User Learn Badge 
 <div align="left"> 
